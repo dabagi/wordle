@@ -21,8 +21,12 @@ footer {
     width: 40px;
     height: 60px;
     font-weight: bold;
+    border-radius: 5px;
 }
 
 .keyboard-column.__side {
     width: 65px;
+
 }
+
+.keyboard-column.__side svg {width: 25px;}

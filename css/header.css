@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #d3d6da;
+    padding: 0 20px;
+}
+
+.menu {
+    width: 150px;
+}
+.menu svg {width: 30px;}
+
+.util {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.util .icon {
+    width: 30px;
+    margin: 0 10px;
+}
