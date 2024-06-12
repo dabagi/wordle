@@ -1,0 +1,28 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.keyboard-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.keyboard-column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D3D6DA;
+    width: 40px;
+    height: 60px;
+    font-weight: bold;
+}
+
+.keyboard-column.__side {
+    width: 65px;
+}
